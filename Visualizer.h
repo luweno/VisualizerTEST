@@ -16,7 +16,7 @@ private:
     int sampleRate;     // Audio sample rate (e.g., 44100 Hz)
     int fftSize;        // FFT window size (e.g., 1024)
     float binWidth;
-    int BAR_HEIGHT_MAX;
+    float BAR_HEIGHT_MAX;
    
 
 public:
